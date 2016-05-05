@@ -1,6 +1,7 @@
 # bash-present
 Bash script for giving CLI presentations, one line at a time, because who _doesn't_ love a good command-line demo?
 
+### Overview
 
 `bash-present` is a script for reading a text file containing shell commands, and executing them one-by-one.
 
