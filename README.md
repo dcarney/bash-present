@@ -16,13 +16,13 @@ When invoked as described, this script will:
   - repeat until the file is exhausted
 
 ### Example:
-An example commands file (`demo.txt`) would look like:
+An example commands file (`example.txt`) would look like:
 
     cowsay "Hello World\!"
     date
     cowsay $(date)
 
-Running `$ present.sh demo.txt` would yield:
+Running `$ present.sh example.txt` would yield:
 
 ```
 $ cowsay "hello world!"
